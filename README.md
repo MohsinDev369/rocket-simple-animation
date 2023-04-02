@@ -1,5 +1,5 @@
 <center>
-    <img src='./public/preview.gif'>
+<img src='./public/preview.gif'>
 </center>
 ## Getting Started
 

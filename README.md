@@ -1,6 +1,7 @@
 <center>
 <img src='./public/preview.gif'>
 </center>
+
 ## Getting Started
 
 First, run the development server:
